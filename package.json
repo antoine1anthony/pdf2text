@@ -20,12 +20,12 @@
     "url": "https://github.com/robgraeber/pdf2text/issues"
   },
   "devDependencies": {
-    "mocha": "~1.14.0",
+    "mocha": "^10.2.0",
     "okay": "~0.3.0"
   },
   "dependencies": {
     "bluebird": "^2.9.33",
-    "lodash": "~2.3.0",
+    "lodash": "^4.17.21",
     "pdf3json": "0.2.0"
   }
 }
