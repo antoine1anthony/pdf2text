@@ -26,6 +26,6 @@
   "dependencies": {
     "bluebird": "^2.9.33",
     "lodash": "^4.17.21",
-    "pdf3json": "0.2.0"
+    "pdf2json": "^3.0.3"
   }
 }

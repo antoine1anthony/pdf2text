@@ -1,6 +1,6 @@
 var _ = require('lodash');
 var Promise = require('bluebird');
-var PDFParser = require('pdf3json');
+var PDFParser = require('pdf2json');
 
 //clear the pdf logger
 require('util')._logN = function() { };
